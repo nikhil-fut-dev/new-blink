@@ -80,11 +80,36 @@ header {
   background-color: rgb(12, 131, 31);
 }
 
+.headerBtn button:last-child:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.headerBtn button:first-child:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
 .bannerSection {
   max-width: 1280px;
   margin: auto;
 }
 
 .bannerSection img {
+  width: 100%;
+}
+
+.orderBanner {
+  display: flex;
+  max-width: 1280px;
+  margin: auto;
+}
+
+.orderBannerItems {
+  flex-basis: 50%;
+  margin: 1%;
+}
+
+.orderBannerItems img {
   width: 100%;
 }
