@@ -85,6 +85,10 @@ header {
   cursor: pointer;
 }
 
+.headerBtn button:first-child {
+  font-weight: bold;
+}
+
 .headerBtn button:first-child:hover {
   text-decoration: underline;
   cursor: pointer;
