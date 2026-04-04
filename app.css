@@ -65,4 +65,8 @@
    padding: 10px;
    flex-direction: column;
  }
+
+ .categoryItems {
+   flex-basis: 20%;
+ }
 }

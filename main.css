@@ -113,3 +113,18 @@ header {
 .orderBannerItems img {
   width: 100%;
 }
+
+.categorySection {
+  display: flex;
+  max-width: 1280px;
+  margin: auto;
+  flex-wrap: wrap;
+}
+
+.categoryItems {
+  flex-basis: 10%;
+}
+
+.categoryItems img {
+  width: 100%;
+}
