@@ -159,6 +159,10 @@ header {
   font-size: 18px;
 }
 
+.headingRow a:hover {
+  cursor: pointer;
+}
+
 .productRow {
   width: 100%;
   margin: 30px 0px 0px 0px;
@@ -221,6 +225,10 @@ header {
   font-weight: 700;
   border-radius: 6px;
   background-color: #f7fff9;
+}
+
+.btn-price-outer button:hover {
+  cursor: pointer;
 }
 
 footer {
