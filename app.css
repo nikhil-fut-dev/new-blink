@@ -58,10 +58,12 @@
    color: rgb(12, 131, 31);
 }
 
+/*
  .bannerSection {
    display: none;
  }
-    
+ */   
+
  .orderBanner {
    padding: 10px;
    flex-direction: column;
